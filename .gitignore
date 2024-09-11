@@ -1,0 +1,5 @@
+# Ignore Main.java at the root level
+/Main.java
+
+# Ignore SortingAlgos.java at the root level
+/SortingAlgos.java
